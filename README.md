@@ -5,9 +5,11 @@
 
 - 👩🏻‍🦰 My pronouns are she/her
 - 🌱 I’m currently improving my knowledge in **iOS programming** 
+- 🗣️ I speak Portuguese (native) and English (intermediate)
+- 📖 Studying French
+- 🍻 One of my favorite things to do is spend time with my friends
 - 🎨 A curiosity about me is that I like to paint on canvas, cloths and walls
 - 😺 I love cats, they make my day more happier
-- 🍻 One of my favorite things to do is spend time with my friends
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=cobalt&hide_border=true)
 

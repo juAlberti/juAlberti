@@ -3,8 +3,11 @@
 [![Linkedin: Julia Alberti](https://img.shields.io/badge/-juliaalbertimaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaalbertimaia/)](https://www.linkedin.com/in/juliaalbertimaia/)
 [![GitHub Julia](https://img.shields.io/github/followers/juAlberti?label=follow&style=social)](https://github.com/juAlberti)
 
-- 🌱 I’m currently improving **Swift**
-- 
+- 👩🏻‍🦰 My pronouns are she/her
+- 🌱 I’m currently improving my knowledge in **iOS programming** 
+- 🎨 A curiosity about me is that I like to paint on canvas, cloths and walls
+- 😺 I love cats, they make my day more happier
+- 🍻 One of my favorite things to do is spend time with my friends
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=dark&hide_border=true)
 

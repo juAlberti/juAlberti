@@ -9,5 +9,5 @@
 - 😺 I love cats, they make my day more happier
 - 🍻 One of my favorite things to do is spend time with my friends
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=cobalt&hide_border=true)
 

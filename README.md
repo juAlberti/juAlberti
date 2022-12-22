@@ -11,7 +11,7 @@ About me and my career:
 - 📖 Studying French
 - 🍻 One of my favorite things to do is spend time with my friends
 - 🎨 A curiosity about me is that I like to paint on canvas, cloths and walls
-- 😺 I love cats, they make my day more happier
+- ❤️ Love cats, cinema, meeting new places, travel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=cobalt&hide_border=true)
 

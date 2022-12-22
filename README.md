@@ -3,8 +3,9 @@
 [![Linkedin: Julia Alberti](https://img.shields.io/badge/-juliaalbertimaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliaalbertimaia/)](https://www.linkedin.com/in/juliaalbertimaia/)
 [![GitHub Julia](https://img.shields.io/github/followers/juAlberti?label=follow&style=social)](https://github.com/juAlberti)
 
+About me and my Career:
 - 👩🏻‍🦰 My pronouns are she/her
-- 🌱 I’m currently improving my knowledge in **iOS programming** 
+- 🌱 I’m currently improving my knowledge in **iOS programming** and majoring in computer science
 - 🗣️ I speak Portuguese (native) and English (intermediate)
 - 📖 Studying French
 - 🍻 One of my favorite things to do is spend time with my friends

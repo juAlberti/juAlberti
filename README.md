@@ -15,3 +15,6 @@ About me and my career:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=cobalt&hide_border=true)
 
+<p align="justify">
+<a href="https://www.linkedin.com/in/juliaalbertimaia/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+</p>

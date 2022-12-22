@@ -6,8 +6,8 @@
 
 About me and my career:
 - 👩🏻‍🦰 My pronouns are she/her
-- 🌱 I’m currently improving my knowledge in **iOS programming** and majoring in **computer science**
-- 💜 some apps I worked on are on the app store, check it out 😉: [Skriva](https://apps.apple.com/us/app/skriva/id1635820032?ign-itscg=30200&ign-itsct=apps_box_link), [Expensivee](https://apps.apple.com/br/app/expensee-organize-finan%C3%A7as/id6443573142), [Brush Buddy](https://apps.apple.com/br/app/brushbuddy-bora-escovar/id1579938423) and [Bump It Up!](https://apps.apple.com/br/app/bump-it-up/id1586147937)
+- 🌱 I’m currently improving my knowledge in **iOS Development** and majoring in **computer science**
+- 💜 some apps I worked on are on the App Store, check it out 😉: [Skriva](https://apps.apple.com/us/app/skriva/id1635820032?ign-itscg=30200&ign-itsct=apps_box_link), [Expensivee](https://apps.apple.com/br/app/expensee-organize-finan%C3%A7as/id6443573142), [Brush Buddy](https://apps.apple.com/br/app/brushbuddy-bora-escovar/id1579938423) and [Bump It Up!](https://apps.apple.com/br/app/bump-it-up/id1586147937)
 - 🗣️ I speak Portuguese (native) and English (intermediate)
 - 📖 Studying French
 - 🍻 One of my favorite things to do is spend time with my friends

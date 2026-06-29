@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I'm an iOS Developer from Brazil with experience building mobile applications using Swift, SwiftUI, UIKit and MVVM-based architectures.
+I am an iOS Developer from Brazil with experience building mobile applications using Swift, SwiftUI, UIKit and MVVM-based architectures.
 
 I have worked on production apps, white-label products, video streaming features, user flows, UI improvements and CI/CD processes. I enjoy combining engineering, design and product thinking to build polished mobile experiences.
 
@@ -45,9 +45,4 @@ I have worked on production apps, white-label products, video streaming features
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juAlberti&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=juAlberti&show_icons=true&theme=cobalt&hide_border=true&border_radius=15&bg_color=0d1117"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juAlberti&layout=compact&theme=cobalt&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </p>

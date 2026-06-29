@@ -44,5 +44,5 @@ I have worked on production apps, white-label products, video streaming features
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juAlberti&theme=nord_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juAlberti&theme=tokyonight"/>
 </p>

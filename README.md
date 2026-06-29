@@ -4,12 +4,6 @@
   <img src="https://i.pinimg.com/originals/84/fd/cc/84fdccb3db108da8d868f694277b1062.gif" width="30">
 </h1>
 
-<p align="justify">
-  <a href="https://www.linkedin.com/in/juliaalbertimaia/">
-    <img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
-  </a>
-</p>
-
 I am an iOS Developer from Brazil with experience building mobile applications using Swift, SwiftUI, UIKit and MVVM-based architectures.
 
 I have worked on production apps, white-label products, video streaming features, user flows, UI improvements and CI/CD processes. I enjoy combining engineering, design and product thinking to build polished mobile experiences.
